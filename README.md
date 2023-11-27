@@ -5,20 +5,7 @@ Akses Langsung [DISINI](https://github.com/deaaprizal/forum/discussions) 👈
 
 Forum khusus untuk sharing para Tech Envy 🔥
 
-
 ![App Screenshot](https://github.com/deaaprizal/forum/blob/main/ss-forum.jpeg)
-
-
-## Authors
-
-- [@deaafrizal](https://instagram.com/dea.afrizal)
-- [...?]()
-
-### Moderator
-
-- [...?]()
-- [...?]()
-- [...?]()
 
 ## 🚀 Prakata
 Setelah dipikir-pikir 1000x, daripada bikin web khusus forum buatan sendiri. Mending pake github ini, kek lebih simpel, tinggal setting dikit, gratis pula, UIUX nya bagus (user friendly) & developer friendly pula wkwkwk.
@@ -31,3 +18,13 @@ Setelah dipikir-pikir 1000x, daripada bikin web khusus forum buatan sendiri. Men
   * sharing seputar peralatan tempur developer [all about hardware for developer](https://github.com/deaaprizal/forum/discussions/categories/all-about-hardware-pc-laptop-etc)
   * ngembangin skill komunikasi yang positif sesama developer.
 
+## Authors
+
+- [@deaafrizal](https://instagram.com/dea.afrizal)
+- [...?]()
+
+### Moderator
+
+- [...?]()
+- [...?]()
+- [...?]()
