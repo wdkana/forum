@@ -6,7 +6,7 @@ Akses Langsung [DISINI](https://github.com/deaaprizal/forum/discussions) 👈
 Forum khusus untuk sharing para Tech Envy 🔥
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/deaaprizal/forum/blob/main/ss-forum.jpeg)
 
 
 ## Authors
